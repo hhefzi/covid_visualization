@@ -1,60 +1,59 @@
 <h3>Static visualization of COVID19 testing and positivity rates for US states</h3>
 
-[CA](imgs/CA.png)
 <details>
 <summary>US States (+DC)</summary>
 <ul>
-<li><a href="./imgs/AK.png">AK</a></li>
-<li><a href="./imgs/AL.png">AL</a></li>
-<li><a href="./imgs/AR.png">AR</a></li>
-<li><a href="./imgs/AZ.png">AZ</a></li>
-<li><a href="./imgs/CA.png">CA</a></li>
-<li><a href="./imgs/CO.png">CO</a></li>
-<li><a href="./imgs/CT.png">CT</a></li>
-<li><a href="./imgs/DC.png">DC</a></li>
-<li><a href="./imgs/DE.png">DE</a></li>
-<li><a href="./imgs/FL.png">FL</a></li>
-<li><a href="./imgs/GA.png">GA</a></li>
-<li><a href="./imgs/HI.png">HI</a></li>
-<li><a href="./imgs/IA.png">IA</a></li>
-<li><a href="./imgs/ID.png">ID</a></li>
-<li><a href="./imgs/IL.png">IL</a></li>
-<li><a href="./imgs/IN.png">IN</a></li>
-<li><a href="./imgs/KS.png">KS</a></li>
-<li><a href="./imgs/KY.png">KY</a></li>
-<li><a href="./imgs/LA.png">LA</a></li>
-<li><a href="./imgs/MA.png">MA</a></li>
-<li><a href="./imgs/MD.png">MD</a></li>
-<li><a href="./imgs/ME.png">ME</a></li>
-<li><a href="./imgs/MI.png">MI</a></li>
-<li><a href="./imgs/MN.png">MN</a></li>
-<li><a href="./imgs/MO.png">MO</a></li>
-<li><a href="./imgs/MS.png">MS</a></li>
-<li><a href="./imgs/MT.png">MT</a></li>
-<li><a href="./imgs/NC.png">NC</a></li>
-<li><a href="./imgs/ND.png">ND</a></li>
-<li><a href="./imgs/NE.png">NE</a></li>
-<li><a href="./imgs/NH.png">NH</a></li>
-<li><a href="./imgs/NJ.png">NJ</a></li>
-<li><a href="./imgs/NM.png">NM</a></li>
-<li><a href="./imgs/NV.png">NV</a></li>
-<li><a href="./imgs/NY.png">NY</a></li>
-<li><a href="./imgs/OH.png">OH</a></li>
-<li><a href="./imgs/OK.png">OK</a></li>
-<li><a href="./imgs/OR.png">OR</a></li>
-<li><a href="./imgs/PA.png">PA</a></li>
-<li><a href="./imgs/RI.png">RI</a></li>
-<li><a href="./imgs/SC.png">SC</a></li>
-<li><a href="./imgs/SD.png">SD</a></li>
-<li><a href="./imgs/TN.png">TN</a></li>
-<li><a href="./imgs/TX.png">TX</a></li>
-<li><a href="./imgs/UT.png">UT</a></li>
-<li><a href="./imgs/VA.png">VA</a></li>
-<li><a href="./imgs/VT.png">VT</a></li>
-<li><a href="./imgs/WA.png">WA</a></li>
-<li><a href="./imgs/WI.png">WI</a></li>
-<li><a href="./imgs/WV.png">WV</a></li>
-<li><a href="./imgs/WY.png">WY</a></li>
+<li><a href="./imgs/AK.png" target="_blank">AK</a></li>
+<li><a href="./imgs/AL.png" target="_blank">AL</a></li>
+<li><a href="./imgs/AR.png" target="_blank">AR</a></li>
+<li><a href="./imgs/AZ.png" target="_blank">AZ</a></li>
+<li><a href="./imgs/CA.png" target="_blank">CA</a></li>
+<li><a href="./imgs/CO.png" target="_blank">CO</a></li>
+<li><a href="./imgs/CT.png" target="_blank">CT</a></li>
+<li><a href="./imgs/DC.png" target="_blank">DC</a></li>
+<li><a href="./imgs/DE.png" target="_blank">DE</a></li>
+<li><a href="./imgs/FL.png" target="_blank">FL</a></li>
+<li><a href="./imgs/GA.png" target="_blank">GA</a></li>
+<li><a href="./imgs/HI.png" target="_blank">HI</a></li>
+<li><a href="./imgs/IA.png" target="_blank">IA</a></li>
+<li><a href="./imgs/ID.png" target="_blank">ID</a></li>
+<li><a href="./imgs/IL.png" target="_blank">IL</a></li>
+<li><a href="./imgs/IN.png" target="_blank">IN</a></li>
+<li><a href="./imgs/KS.png" target="_blank">KS</a></li>
+<li><a href="./imgs/KY.png" target="_blank">KY</a></li>
+<li><a href="./imgs/LA.png" target="_blank">LA</a></li>
+<li><a href="./imgs/MA.png" target="_blank">MA</a></li>
+<li><a href="./imgs/MD.png" target="_blank">MD</a></li>
+<li><a href="./imgs/ME.png" target="_blank">ME</a></li>
+<li><a href="./imgs/MI.png" target="_blank">MI</a></li>
+<li><a href="./imgs/MN.png" target="_blank">MN</a></li>
+<li><a href="./imgs/MO.png" target="_blank">MO</a></li>
+<li><a href="./imgs/MS.png" target="_blank">MS</a></li>
+<li><a href="./imgs/MT.png" target="_blank">MT</a></li>
+<li><a href="./imgs/NC.png" target="_blank">NC</a></li>
+<li><a href="./imgs/ND.png" target="_blank">ND</a></li>
+<li><a href="./imgs/NE.png" target="_blank">NE</a></li>
+<li><a href="./imgs/NH.png" target="_blank">NH</a></li>
+<li><a href="./imgs/NJ.png" target="_blank">NJ</a></li>
+<li><a href="./imgs/NM.png" target="_blank">NM</a></li>
+<li><a href="./imgs/NV.png" target="_blank">NV</a></li>
+<li><a href="./imgs/NY.png" target="_blank">NY</a></li>
+<li><a href="./imgs/OH.png" target="_blank">OH</a></li>
+<li><a href="./imgs/OK.png" target="_blank">OK</a></li>
+<li><a href="./imgs/OR.png" target="_blank">OR</a></li>
+<li><a href="./imgs/PA.png" target="_blank">PA</a></li>
+<li><a href="./imgs/RI.png" target="_blank">RI</a></li>
+<li><a href="./imgs/SC.png" target="_blank">SC</a></li>
+<li><a href="./imgs/SD.png" target="_blank">SD</a></li>
+<li><a href="./imgs/TN.png" target="_blank">TN</a></li>
+<li><a href="./imgs/TX.png" target="_blank">TX</a></li>
+<li><a href="./imgs/UT.png" target="_blank">UT</a></li>
+<li><a href="./imgs/VA.png" target="_blank">VA</a></li>
+<li><a href="./imgs/VT.png" target="_blank">VT</a></li>
+<li><a href="./imgs/WA.png" target="_blank">WA</a></li>
+<li><a href="./imgs/WI.png" target="_blank">WI</a></li>
+<li><a href="./imgs/WV.png" target="_blank">WV</a></li>
+<li><a href="./imgs/WY.png" target="_blank">WY</a></li>
 </ul>
 </details>
 Source for US data: https://covidtracking.com/api/v1/us/daily.csv
