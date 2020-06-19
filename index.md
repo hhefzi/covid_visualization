@@ -58,6 +58,6 @@
 </details>
 Source for US data [1](https://covidtracking.com/api/v1/us/daily.csv)
 
-Source for state data [2](https://covidtracking.com/api/v1/states/daily.csv)2
+Source for state data [2](https://covidtracking.com/api/v1/states/daily.csv)
 
 Source for world (ex-US) data [3](https://covid.ourworldindata.org/data/owid-covid-data.csv)
