@@ -5,7 +5,7 @@
 <li>Positivity rate is the ratio of the rolling average of cases to tests</li>
 </ul>
 <details>
-<summary>US States (+DC)</summary>
+<summary>Click here for US States (+DC)</summary>
 <ul>
 <li><a href="./imgs/AK.png" target="_blank">AK</a></li>
 <li><a href="./imgs/AL.png" target="_blank">AL</a></li>
@@ -60,7 +60,7 @@
 <li><a href="./imgs/WY.png" target="_blank">WY</a></li>
 </ul>
 </details>
-
+<br>
 Plots for data downloaded on: June 19, 2020
 
 Source for US data <a href="https://covidtracking.com/api/v1/us/daily.csv" target="_blank">1</a>
