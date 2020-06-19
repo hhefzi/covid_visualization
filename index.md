@@ -1,4 +1,4 @@
-Playground for COVID19 data visualization
+<h3>Static visualization of COVID19 testing and positivity rates for US states</h3>
 
 Source for US data: https://covidtracking.com/api/v1/us/daily.csv
 
