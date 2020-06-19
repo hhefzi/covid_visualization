@@ -1,2 +1,3 @@
 title: COVID19 Visualization
 theme: jekyll-theme-modernist
+exclude: ['README.md']
