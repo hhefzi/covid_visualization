@@ -61,7 +61,7 @@
 </ul>
 </details>
 <br>
-Plots for data downloaded on: June 19, 2020
+Plots from data downloaded on: June 19, 2020
 
 Source for US data <a href="https://covidtracking.com/api/v1/us/daily.csv" target="_blank">1</a>
 
