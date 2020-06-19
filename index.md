@@ -1,4 +1,4 @@
-<h3>Static visualization of COVID19 testing and positivity rates for US states</h3>
+<h3>Visualization of COVID19 testing and positivity rates</h3>
 
 <details>
 <summary>US States (+DC)</summary>
@@ -56,6 +56,7 @@
 <li><a href="./imgs/WY.png" target="_blank">WY</a></li>
 </ul>
 </details>
+
 Source for US data <a href="https://covidtracking.com/api/v1/us/daily.csv" target="_blank">1</a>
 
 Source for state data <a href="https://covidtracking.com/api/v1/states/daily.csv" target="_blank">2</a>
