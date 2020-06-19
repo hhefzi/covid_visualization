@@ -1,5 +1,8 @@
 <h3>Visualization of COVID19 testing and positivity rates</h3>
-
+<ul>
+<li>Red line indicates a 5% positive test rate, WHO recommends positive test rate <5% for 14 days before reopening</li>
+<li>All data is shown as a rolling average of data from the previous 7 days</li>
+</ul>
 <details>
 <summary>US States (+DC)</summary>
 <ul>
