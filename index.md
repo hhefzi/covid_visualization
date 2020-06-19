@@ -57,8 +57,8 @@
 </ul>
 </details>
 
+Data pulled: June 19, 2020
+
 Source for US data <a href="https://covidtracking.com/api/v1/us/daily.csv" target="_blank">1</a>
-
 Source for state data <a href="https://covidtracking.com/api/v1/states/daily.csv" target="_blank">2</a>
-
 Source for world (ex-US) data <a href="https://covid.ourworldindata.org/data/owid-covid-data.csv" target="_blank">3</a>
