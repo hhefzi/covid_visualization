@@ -61,10 +61,12 @@
 </ul>
 </details>
 
-Plots for data downloaded on: June 19, 2020
+Plots include data through June 19, 2020
 
-Source for US data <a href="https://covidtracking.com/api/v1/us/daily.csv" target="_blank">1</a>
+Source for state data <a href="https://covidtracking.com/api/v1/states/daily.csv" target="_blank">1</a>
 
-Source for state data <a href="https://covidtracking.com/api/v1/states/daily.csv" target="_blank">2</a>
-
-Source for world (ex-US) data <a href="https://covid.ourworldindata.org/data/owid-covid-data.csv" target="_blank">3</a>
+Other useful data:
+<ul>
+<li><a href="https://covidtracking.com/api/v1/us/daily.csv" target="_blank">US data</a></li>
+<li><a href="https://covid.ourworldindata.org/data/owid-covid-data.csv" target="_blank">World data</a></li>
+</ul>
