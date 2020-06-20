@@ -60,7 +60,6 @@
 <li><a href="./imgs/WY.png" target="_blank">WY</a></li>
 </ul>
 </details>
-<<<<<<< HEAD
 
 Plots include data through June 19, 2020
 
