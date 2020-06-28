@@ -61,7 +61,7 @@
 </ul>
 </details>
 
-Plots include data through June 25, 2020
+Plots include data through June 27, 2020
 
 Source for state data <a href="https://covidtracking.com/api/v1/states/daily.csv" target="_blank">1</a>
 
