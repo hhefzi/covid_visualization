@@ -5,3 +5,5 @@ wget https://covid.ourworldindata.org/data/owid-covid-data.csv -O ./data/world.c
 wget https://covidtracking.com/api/v1/states/daily.csv -O ./data/states.csv
 
 wget https://covidtracking.com/api/v1/us/daily.csv -O ./data/US.csv
+
+python3 plot_states.py
